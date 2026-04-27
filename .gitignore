@@ -1,0 +1,13 @@
+# Xcode
+build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/SwiftPM/Package.resolved
+*.xcuserstate
+
+# OS X
+.DS_Store
+
+# Spotify SDK (Users should download this themselves or use Swift Package Manager)
+# SpotifyiOS.xcframework/
